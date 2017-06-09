@@ -2935,7 +2935,7 @@
 	#banner {
 		padding: 12em 0 10em 0;
 		background-image: url('../../images/pericloin_banner.png');
-		background-size: 55em 20em;
+		background-size: contain;
 		background-position: top;
 		background-attachment: fixed;
 		background-repeat: no-repeat;
